@@ -7,7 +7,7 @@ math: true
 To make sure everything works as expected and looks pretty, on this page, we will explore how different types of content are displayed by this theme.
 
 
-## Headings VERY NEW
+## Headings VERY VERY NEW
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
